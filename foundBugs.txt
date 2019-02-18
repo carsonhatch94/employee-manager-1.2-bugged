@@ -1,0 +1,5 @@
+Application will add random hyphens throughout the document whenever you click away from an employee name
+Extra period in version type (1..2)
+When you click on the add employee button, the space which should be occupied with "New employee" is blank
+Program does not deliver error messages appropriatly, gives title error when name was in error
+Does not clear errors when you begin typing anew
